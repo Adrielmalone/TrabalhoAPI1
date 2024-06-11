@@ -465,9 +465,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\TrabalhoAPI1\\ProjetoAPI\\ProjetoAPI.csproj",
-      "projectName": "ProjetoAPI",
-      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\TrabalhoAPI1\\ProjetoAPI\\ProjetoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\TrabalhoAPI1\\ProjetoAPI\\mercadonegro.csproj",
+      "projectName": "mercadonegro",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\TrabalhoAPI1\\ProjetoAPI\\mercadonegro.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\TrabalhoAPI1\\ProjetoAPI\\obj\\",
       "projectStyle": "PackageReference",

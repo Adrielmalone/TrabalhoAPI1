@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\TrabalhoAPI1\ProjetoAPI\obj\Debug\net8.0\mercadonegro.sourcelink.json
